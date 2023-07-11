@@ -1,0 +1,13 @@
+{
+  "name": "VictorMacabu/buscador-cursos",
+  "description": "Projeto que busca os cursos no site da Alura",
+  "type": "library",
+  "authors": [
+    {
+      "name": "VictorMacabu",
+      "email": "victor.macabu12@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
