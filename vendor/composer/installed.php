@@ -3,7 +3,7 @@
         'name' => 'victormacabu/buscador_cursos',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '1a8bb346e3374029bf288bbe52d67de5f0cc26cf',
+        'reference' => 'bdf5ff19c3c11dacc550dcc0df82a9870ddc66aa',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -100,6 +100,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'symfony/css-selector' => array(
+            'pretty_version' => 'v6.3.0',
+            'version' => '6.3.0.0',
+            'reference' => '88453e64cd86c5b60e8d2fb2c6f953bbc353ffbf',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/css-selector',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'symfony/deprecation-contracts' => array(
             'pretty_version' => 'v3.3.0',
             'version' => '3.3.0.0',
@@ -139,7 +148,7 @@
         'victormacabu/buscador_cursos' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '1a8bb346e3374029bf288bbe52d67de5f0cc26cf',
+            'reference' => 'bdf5ff19c3c11dacc550dcc0df82a9870ddc66aa',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

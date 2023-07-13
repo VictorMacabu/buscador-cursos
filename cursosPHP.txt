@@ -1,0 +1,88 @@
+1 Curso PHP: conceitos, lidando com dados, loops e mais
+ 
+2 Curso Avançando com PHP: Arrays, Strings, Função e Web
+ 
+3 Curso PHP Strings: manipulando textos com PHP
+ 
+4 Curso PHP: manipulando coleções com Arrays
+ 
+5 Curso PHP: dominando as Collections
+ 
+6 Curso Orientação a Objetos com PHP: Classes, métodos e atributos
+ 
+7 Curso Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+ 
+8 Curso PHP Composer: Dependências, Autoload e Publicação
+ 
+9 Curso PHP: Programação Funcional
+ 
+10 Curso PHP Exceptions: tratamento de erros
+ 
+11 Curso PHP I/O: trabalhando com arquivos e streams
+ 
+12 Curso PHP e Behavior Driven Development: BDD com Behat
+ 
+13 Curso PHP Parallel: Processos, Threads e Channels
+ 
+14 Curso PHP e Clean Architecture: descomplicando arquitetura de software
+ 
+15 Curso PHP e Domain Driven Design: apresentando os conceitos
+ 
+16 Curso PHP Reativo: programação assíncrona em tempo real
+ 
+17 Curso PHP e PDO: trabalhando com bancos de dados
+ 
+18 Curso PHP e Selenium: testes de ponta a ponta
+ 
+19 Curso Object Calisthenics: exercitando a Orientação a Objetos
+ 
+20 Curso Metaprogramação com PHP: API de Reflection
+ 
+21 Curso Swoole PHP: servidor assíncrono e corrotinas com PHP
+ 
+22 Curso Refatoração em PHP: boas práticas no seu código
+ 
+23 Curso Laravel: criando uma aplicação com MVC
+ 
+24 Curso Laravel: validando formulários, usando sessões e definindo relacionamentos
+ 
+25 Curso Laravel: transações, service container e autenticação
+ 
+26 Curso Laravel: e-mails, eventos assíncronos, uploads e testes
+ 
+27 Curso Laravel: construindo APIs
+ 
+28 Curso XDebug: ferramenta de debug e profiling
+ 
+29 Curso PHP e TDD: testes com PHPUnit
+ 
+30 Curso SOLID com PHP: princípios da programação orientada a objetos
+ 
+31 Curso Mocks em PHP: entenda os dublês de testes
+ 
+32 Curso PHP na Web: lidando com segurança e API
+ 
+33 Curso PHP na Web: aplicando boas práticas e PSRs
+ 
+34 Curso Testes de integração com PHP: testando o acesso à API e ao banco de dados
+ 
+35 Curso Design Patterns em PHP: padrões comportamentais
+ 
+36 Curso Design Patterns em PHP: padrões estruturais
+ 
+37 Curso Design Patterns em PHP: padrões criacionais
+ 
+38 Curso Doctrine: conhecendo um ORM PHP
+ 
+39 Curso Doctrine: Migrations, relatórios e performance
+ 
+40 Curso Symfony Framework: cache e segurança
+ 
+41 Curso Symfony Framework: criando uma aplicação com MVC
+ 
+42 Curso Symfony Framework: formulários, validação e sessão
+ 
+43 Curso Symfony Framework: lidando com eventos, tradução, logs e deploy
+ 
+44 Curso PHP na Web: conhecendo o padrão MVC
+ 
