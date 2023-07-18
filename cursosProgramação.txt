@@ -1,0 +1,548 @@
+1 Curso JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
+ 
+2 Curso JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
+ 
+3 Curso Lógica de programação: laços e listas com JavaScript
+ 
+4 Curso Lógica de programação: comece em lógica com o jogo Pong e JavaScript
+ 
+5 Curso Flask: crie uma webapp com Python
+ 
+6 Curso Flask: avançando no desenvolvimento web com Python
+ 
+7 Curso Django: templates e boas práticas
+ 
+8 Curso Django: persistência de dados e Admin
+ 
+9 Curso Django: autenticação de formulários e alerta
+ 
+10 Curso Django: CRUD e persistência no S3
+ 
+11 Curso API com Django 3: Django Rest Framework
+ 
+12 Curso API com Django 3: Validações, buscas, filtros e deploy
+ 
+13 Curso API com Django 3: Versionamento, cabeçalhos e CORS
+ 
+14 Curso API com Django 3: Testes, segurança e lapidações
+ 
+15 Curso API com Django 3: Aprofundando em testes e documentação
+ 
+16 Curso TDD no Django 3: Desenvolvimento guiado por testes
+ 
+17 Curso Boas práticas no Django: apps, pastas e paginação
+ 
+18 Curso Formulários no Django 3: criando e validando dados
+ 
+19 Curso Python: avançando na linguagem
+ 
+20 Curso Python: entendendo a Orientação a Objetos
+ 
+21 Curso Python: avançando na orientação a objetos
+ 
+22 Curso Python: trabalhando com I/O
+ 
+23 Curso Python Collections parte 1: listas e tuplas
+ 
+24 Curso Python Collections parte 2: conjuntos e dicionários
+ 
+25 Curso Python: começando com a linguagem
+ 
+26 Curso Python Brasil: validação de dados no padrão nacional
+ 
+27 Curso Python: boas práticas de código com PEP8
+ 
+28 Curso String em Python: extraindo informações de uma URL
+ 
+29 Curso Python e TDD: explorando testes unitários
+ 
+30 Curso Node.js: criando sua primeira biblioteca
+ 
+31 Curso Node.js: Refresh Tokens e confirmação de cadastro
+ 
+32 Curso Node.js: continue seu projeto full stack criando uma API com Express
+ 
+33 Curso ORM com NodeJS: API com Sequelize e MySQL
+ 
+34 Curso ORM com NodeJS: avançando nas funcionalidades do Sequelize
+ 
+35 Curso GraphQL: construindo uma API com Apollo Server
+ 
+36 Curso GraphQL: integração de dados e relacionamentos
+ 
+37 Curso Nest.js: criando uma API Restful
+ 
+38 Curso Nest.js: Persistindo dados com TypeORM e PostgreSQL
+ 
+39 Curso Nest.js: lidando com migrações, relacionamentos ORM e erros em uma API
+ 
+40 Curso APIs REST com NestJS: buscas, validação, serialização e detalhes arquiteturais
+ 
+41 Curso NodeJS: controle de acesso e autorização com RBAC
+ 
+42 Curso NodeJS: adicionando CI ao projeto e deploy no Google Cloud
+ 
+43 Curso Node.js: API Rest com Express e MongoDB
+ 
+44 Curso Node.js: criptografia e tokens JWT
+ 
+45 Curso Node.js: testes unitários e de integração
+ 
+46 Curso Node.js: lidando com buscas, filtros, paginação e erros em uma API
+ 
+47 Curso Node.js: criando API Rest com autenticação, perfis de usuários e permissões
+ 
+48 Curso Node.JS: melhorando o fluxo de desenvolvimento e integração de sua equipe
+ 
+49 Curso React e Node.js: consumindo APIs no React no projeto full stack
+ 
+50 Curso JavaScript: tipos, variáveis e funções
+ 
+51 Curso JavaScript: Arrays
+ 
+52 Curso JavaScript: objetos
+ 
+53 Curso JavaScript I: algoritmos de ordenação
+ 
+54 Curso Algoritmos com JavaScript II: aprofundando em algoritmos de ordenação e busca
+ 
+55 Curso JavaScript: programação orientada a objetos
+ 
+56 Curso VSCode: aprendendo dicas e truques
+ 
+57 Curso WebSockets: implemente comunicações em tempo real com Socket.IO e MongoDB
+ 
+58 Curso WebSockets: implemente autenticação e avance no Socket.IO
+ 
+59 Curso Serverless com Node.js: aplicações eficientes na Cloud
+ 
+60 Curso Serverless com Node.js: integrando serviços com AWS
+ 
+61 Curso Serverless com Node.js: integrando serviços com mensageria
+ 
+62 Curso PHP: conceitos, lidando com dados, loops e mais
+ 
+63 Curso Avançando com PHP: Arrays, Strings, Função e Web
+ 
+64 Curso PHP Strings: manipulando textos com PHP
+ 
+65 Curso PHP: manipulando coleções com Arrays
+ 
+66 Curso PHP: dominando as Collections
+ 
+67 Curso Orientação a Objetos com PHP: Classes, métodos e atributos
+ 
+68 Curso Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+ 
+69 Curso PHP Composer: Dependências, Autoload e Publicação
+ 
+70 Curso PHP: Programação Funcional
+ 
+71 Curso PHP Exceptions: tratamento de erros
+ 
+72 Curso PHP I/O: trabalhando com arquivos e streams
+ 
+73 Curso PHP e Behavior Driven Development: BDD com Behat
+ 
+74 Curso PHP Parallel: Processos, Threads e Channels
+ 
+75 Curso PHP e Clean Architecture: descomplicando arquitetura de software
+ 
+76 Curso PHP e Domain Driven Design: apresentando os conceitos
+ 
+77 Curso PHP Reativo: programação assíncrona em tempo real
+ 
+78 Curso PHP e PDO: trabalhando com bancos de dados
+ 
+79 Curso PHP e Selenium: testes de ponta a ponta
+ 
+80 Curso Object Calisthenics: exercitando a Orientação a Objetos
+ 
+81 Curso Metaprogramação com PHP: API de Reflection
+ 
+82 Curso Swoole PHP: servidor assíncrono e corrotinas com PHP
+ 
+83 Curso Refatoração em PHP: boas práticas no seu código
+ 
+84 Curso Laravel: criando uma aplicação com MVC
+ 
+85 Curso Laravel: validando formulários, usando sessões e definindo relacionamentos
+ 
+86 Curso Laravel: transações, service container e autenticação
+ 
+87 Curso Laravel: e-mails, eventos assíncronos, uploads e testes
+ 
+88 Curso Laravel: construindo APIs
+ 
+89 Curso XDebug: ferramenta de debug e profiling
+ 
+90 Curso PHP e TDD: testes com PHPUnit
+ 
+91 Curso SOLID com PHP: princípios da programação orientada a objetos
+ 
+92 Curso Mocks em PHP: entenda os dublês de testes
+ 
+93 Curso PHP na Web: lidando com segurança e API
+ 
+94 Curso PHP na Web: aplicando boas práticas e PSRs
+ 
+95 Curso Testes de integração com PHP: testando o acesso à API e ao banco de dados
+ 
+96 Curso Design Patterns em PHP: padrões comportamentais
+ 
+97 Curso Design Patterns em PHP: padrões estruturais
+ 
+98 Curso Design Patterns em PHP: padrões criacionais
+ 
+99 Curso Doctrine: conhecendo um ORM PHP
+ 
+100 Curso Doctrine: Migrations, relatórios e performance
+ 
+101 Curso Symfony Framework: cache e segurança
+ 
+102 Curso Symfony Framework: criando uma aplicação com MVC
+ 
+103 Curso Symfony Framework: formulários, validação e sessão
+ 
+104 Curso Symfony Framework: lidando com eventos, tradução, logs e deploy
+ 
+105 Curso PHP na Web: conhecendo o padrão MVC
+ 
+106 Curso PHP e MySQL: criando sua primeira aplicação web
+ 
+107 Curso Java OO: entendendo a Orientação a Objetos
+ 
+108 Curso Java Exceções: aprenda a criar, lançar e controlar exceções
+ 
+109 Curso Java e java.lang: programe com a classe Object e String
+ 
+110 Curso Java: criando a sua primeira aplicação
+ 
+111 Curso Java: aplicando a Orientação a Objetos
+ 
+112 Curso Java: trabalhando com listas e coleções de dados
+ 
+113 Curso Java: consumindo API, gravando arquivos e lidando com erros
+ 
+114 Curso Java Collections: Dominando Listas, Sets e Mapas
+ 
+115 Curso Java: novidades e recursos das versões 9 a 14
+ 
+116 Curso Threads em Java 1: programação paralela
+ 
+117 Curso Threads em Java 2: programação concorrente avançada
+ 
+118 Curso Java Reflection parte 1: entendendo a metaprogramação
+ 
+119 Curso Java Reflection parte 2: Anotações e Injeção de Dependências
+ 
+120 Curso Java e Clean Architecture: descomplicando arquitetura de software
+ 
+121 Curso Java e Domain Driven Design: apresentando os conceitos
+ 
+122 Curso Agilidade e TDD: um dia no desenvolvimento de software
+ 
+123 Curso Agilidade e DevOps: um dia no desenvolvimento de software
+ 
+124 Curso Microsserviços na prática: implementando com Java e Spring
+ 
+125 Curso Microsserviços na prática: IaC com CDK e deploy na AWS
+ 
+126 Curso Microsserviços na prática: mensageria com RabbitMQ
+ 
+127 Curso SOLID com Java: princípios da programação orientada a objetos
+ 
+128 Curso Design Patterns em Java I: boas práticas de programação
+ 
+129 Curso Design Patterns em Java II: avançando nas boas práticas de programação
+ 
+130 Curso Certificação Java SE 7 Programmer I
+ 
+131 Curso Certificação Java SE 7 Programmer I: criando e usando Arrays
+ 
+132 Curso Certificação Java SE 7 Programmer I: Laços
+ 
+133 Curso Certificação Java SE 7 Programmer I: lidando com exceções
+ 
+134 Curso Certificação Java SE 7 Programmer I: métodos e encapsulamento
+ 
+135 Curso Certificação Java SE 7 Programmer I: Operadores
+ 
+136 Curso Certificação Java SE 7 Programmer I: relações entre classes
+ 
+137 Curso Certificação Java SE 7 Programmer I: tipos de Dados
+ 
+138 Curso Certificação Java SE 8 Programmer I: conteúdo além da prova
+ 
+139 Curso Java e JDBC: trabalhando com um banco de dados
+ 
+140 Curso Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
+ 
+141 Curso Persistência com JPA: Hibernate
+ 
+142 Curso Java e JPA: consultas avançadas, performance e modelos complexos
+ 
+143 Curso Segurança web em Java: evitando SQL Injection, força bruta e outros ataques
+ 
+144 Curso Segurança web em Java parte 2: XSS, Mass Assignment e Uploads de arquivos!
+ 
+145 Curso Java Servlet: autenticação, autorização e o padrão MVC
+ 
+146 Curso Spring MVC: crie um web app com Thymeleaf e Bootstrap
+ 
+147 Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest
+ 
+148 Curso Spring Boot 3: desenvolva uma API Rest em Java
+ 
+149 Curso Java e Spring: desenvolva sua primeira aplicação Web
+ 
+150 Curso BDD e Java: Behavior Driven Development com Cucumber
+ 
+151 Curso Selenium: testes automatizados de aceitação em Java
+ 
+152 Curso Mocks em Java: conhecendo o Mockito
+ 
+153 Curso TDD e Java: testes automatizados com JUnit
+ 
+154 Curso Maven: gerenciamento de dependências e build de aplicações Java
+ 
+155 Curso Testes em .NET: testando software
+ 
+156 Curso Testes em .NET: integrando a aplicação com um banco de dados
+ 
+157 Curso Testes em .NET: testes de interface usando Selenium
+ 
+158 Curso Testes em .NET: integração e entrega contínua com Azure DevOps
+ 
+159 Curso .NET 6: criando uma web API
+ 
+160 Curso .NET 6: relacionando entidades
+ 
+161 Curso Microsserviços e .NET6: deploy na AWS
+ 
+162 Curso Microsserviços e .NET6: implementando a comunicação
+ 
+163 Curso Entity Framework Core: banco de dados de forma eficiente
+ 
+164 Curso Entity Framework Core parte 1: mapeando um banco pré-existente
+ 
+165 Curso Entity Framework Core parte 2: mapeando um banco pré-existente
+ 
+166 Curso VB.NET com Windows Forms Parte 1
+ 
+167 Curso VB.NET com Windows Forms Parte 2: Entendendo a Orientação a Objetos
+ 
+168 Curso VB.NET com Windows Forms Parte 3: avançando na Orientação à objetos
+ 
+169 Curso VB.NET com Windows Forms Parte 4: entendendo exceções
+ 
+170 Curso VB.NET com Windows Forms Parte 5: Criando bibliotecas DLLs, documentação e usando o NuGet
+ 
+171 Curso VB.NET com Windows Forms Parte 6: Manipulando Strings, expressões regulares e a classe Object
+ 
+172 Curso VB.NET com Windows Forms Parte 7: Arrays e Tipos genéricos
+ 
+173 Curso VB.NET com Windows Forms Parte 8:  Listas, listas ligadas, dicionários e conjuntos
+ 
+174 Curso VB.NET com Windows Forms Parte 9:  Lambda Expressions, LINQ e Dataset
+ 
+175 Curso VB.NET com Windows Forms Parte 10: entrada e saída (I/O) com streams
+ 
+176 Curso VB.NET com Windows Forms Parte 11: trabalhando com banco de dados
+ 
+177 Curso Build de uma aplicação .NET: construindo seus projetos com MSBuild
+ 
+178 Curso .NET 6 e Identity: implementando controle de usuário
+ 
+179 Curso C#: criando e distribuindo bibliotecas em .NET
+ 
+180 Curso C#: Paralelismo no mundo real
+ 
+181 Curso C# Collections parte 1: Listas, arrays, listas ligadas, dicionários e conjuntos
+ 
+182 Curso C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ
+ 
+183 Curso C# Refatoração Parte 1: praticando refatoração de código
+ 
+184 Curso C# Refatoração Parte 2: Refatorações baseadas em Orientação a Objetos.
+ 
+185 Curso C# Refatoração Parte 3: hierarquias de classes
+ 
+186 Curso C#: Trabalhando com Arrays e Coleções
+ 
+187 Curso C#: trabalhando com arquivos
+ 
+188 Curso C#: entendendo exceções
+ 
+189 Curso C#: criando sua primeira aplicação
+ 
+190 Curso C#: aplicando a Orientação a Objetos
+ 
+191 Curso C#: consumindo API, gravando arquivos e utilizando o LINQ
+ 
+192 Curso C#: dominando Orientação a Objetos
+ 
+193 Curso Windows Forms com C#: Formulários, componentes e eventos
+ 
+194 Curso Windows Forms com C#: Menus, outros formulários e validação com login e senha
+ 
+195 Curso Windows Forms com C#: eventos do mouse e mais componentes
+ 
+196 Curso Windows Forms com C#: barra de ferramentas, trabalhando com classes e JSON
+ 
+197 Curso Windows Forms com C#: manipulando os dados do cliente
+ 
+198 Curso Windows Forms com C#: persista os dados no banco de dados
+ 
+199 Curso Windows Forms com C#: acesso ao banco de dados SQL Server
+ 
+200 Curso SOLID com C#: princípios da programação orientada a objetos
+ 
+201 Curso Design Patterns C# I: boas práticas de programação
+ 
+202 Curso Design Patterns C# II: boas práticas de programação
+ 
+203 Curso Selenium WebDriver e C# parte 1: testes da sua web app
+ 
+204 Curso Selenium WebDriver e C# parte 2: outros recursos
+ 
+205 Curso Unity parte 1: criação de um jogo de sobrevivência à zumbis para Web
+ 
+206 Curso Unity parte 2: iluminação, interface e boas práticas
+ 
+207 Curso Unity parte 3: criando um chefão e refinando o jogo
+ 
+208 Curso Unity parte 4: Chefão, partículas e menu
+ 
+209 Curso Unity 2D parte 1: criando um jogo 2D
+ 
+210 Curso Unity 2D parte 2: adicionando efeitos visuais ao seu jogo
+ 
+211 Curso Unity 2D parte 3: criando um jogo multiplayer
+ 
+212 Curso Arquitetura de computadores: por trás de como seu programa funciona
+ 
+213 Curso Swagger: documentando suas APIs
+ 
+214 Curso Quality Assurance: plano de testes e gestão de bugs
+ 
+215 Curso Cypress: automação de testes E2E
+ 
+216 Curso Robot Framework: automatizando testes no padrão BDD
+ 
+217 Curso Elixir: Sintaxe, Programação funcional e Pattern Matching
+ 
+218 Curso Elixir: Recursão, Enums e formas de execução
+ 
+219 Curso Elixir Parte 3: Conhecendo o ecossistema Elixir
+ 
+220 Curso Kotlin: orientação a objetos
+ 
+221 Curso Kotlin: herança, polimorfismo e Interface
+ 
+222 Curso Kotlin: recursos da linguagem com pacotes e composição
+ 
+223 Curso Kotlin: lidando com exceptions e referências nulas
+ 
+224 Curso Kotlin: recursos do paradigma funcional
+ 
+225 Curso Kotlin: desenvolva com coleções, arrays e listas
+ 
+226 Curso Kotlin: aplicações resilientes e assíncronas
+ 
+227 Curso Kotlin: preparando a aplicação para Cloud
+ 
+228 Curso Kotlin: desenvolvendo sua primeira aplicação
+ 
+229 Curso Kotlin Collections: Set e Map
+ 
+230 Curso Kotlin e Spring: segurança e infraestrutura
+ 
+231 Curso Kotlin e Spring: recursos avançados
+ 
+232 Curso Kotlin e Spring: testes automatizados e documentação de API
+ 
+233 Curso API REST com Kotlin e Spring Boot: Camada Web
+ 
+234 Curso API REST com Kotlin e Spring Boot: Camada de persistência
+ 
+235 Curso Arduino: do zero ao jogo
+ 
+236 Curso Arduino e Robótica: Programando um braço robô
+ 
+237 Curso Esp32: detector de presença com Bluetooth Low Energy
+ 
+238 Curso NodeMcu e Esp8266: medindo e publicando dados com MQTT
+ 
+239 Curso NodeMcu e Esp8266: monte um brinquedo interativo para seu Pet
+ 
+240 Curso Raspberry Pi parte 1: da instalação ao Media Center
+ 
+241 Curso Raspberry Pi parte 2: controlando o mundo com GPIO
+ 
+242 Curso Raspberry Pi parte 3: Carro espião com câmera, wifi e sensor
+ 
+243 Curso Raspberry Pi Servidor: montando um servidor para desenvolvimento
+ 
+244 Curso Raspberry Pi: autenticação com RFID e Dynamo DB
+ 
+245 Curso Raspberry Pi Node-RED: elabore aplicações conectando dispositivos e serviços
+ 
+246 Curso Raspberry Pi Servidor: Samba, VPN, IoT e AWS S3
+ 
+247 Curso Amazon Alexa: controle o seu ambiente com sua voz
+ 
+248 Curso Amazon IoT: conecte dispositivos à nuvem e defina regras de notificação
+ 
+249 Curso Automação residencial parte 1: integrando sensores no Home Assistant
+ 
+250 Curso Automação residencial parte 2: aplicando regras, ações e triggers
+ 
+251 Curso Internet das coisas: seu assistente pessoal em Python
+ 
+252 Curso Clojure: programação funcional
+ 
+253 Curso Clojure: coleções no dia a dia
+ 
+254 Curso Clojure: mutabilidade com átomos e refs
+ 
+255 Curso Clojure: Record, protocol e multi method
+ 
+256 Curso Clojure: Schemas
+ 
+257 Curso Clojure: explorando testes
+ 
+258 Curso Clojure: geradores e testes de propriedades
+ 
+259 Curso Go: a linguagem do Google
+ 
+260 Curso Go: Orientação a Objetos
+ 
+261 Curso Go: crie uma aplicação web
+ 
+262 Curso Go: desenvolvendo uma API Rest
+ 
+263 Curso Go: validações, testes e páginas HTML
+ 
+264 Curso Go e Gin: criando API rest com simplicidade
+ 
+265 Curso C: conhecendo a Linguagem das Linguagens
+ 
+266 Curso C: avançando na linguagem
+ 
+267 Curso C: recursos avançados da linguagem
+ 
+268 Curso C++: Conhecendo a linguagem e a STL
+ 
+269 Curso C++ e TDD: testes de unidade com Catch2
+ 
+270 Curso Avançando com C++: entenda melhor a linguagem
+ 
+271 Curso Avançando com C++: Enum, templates e mais recursos
+ 
+272 Curso Avançando com C++: performance e otimização
+ 
+273 Curso Orientação a Objetos com C++: Classes, métodos e atributos
+ 
+274 Curso Orientação a Objetos com C++: trabalhando com herança
+ 

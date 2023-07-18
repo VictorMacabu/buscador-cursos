@@ -1,10 +1,10 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'src/Buscador.php';
 
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
+use GuzzleHttp\Exception\GuzzleException;
 use Symfony\Component\DomCrawler\Crawler;
 
 $client = new Client([
@@ -20,9 +20,12 @@ $crawler = new Crawler();
 $buscador = new Buscador($client, $crawler);
 $cursos = [];
 
+echo 'escreva o curso da busca ';
+$nomeTec = fgets(STDIN);
+
 try {
-    $cursos = $buscador->buscar('/cursos-online-programacao/php');
-} catch (\GuzzleHttp\Exception\GuzzleException $e) {
+    $cursos = $buscador->buscar("/cursos-online-programacao/$nomeTec");
+} catch (GuzzleException $e) {
     echo $e->getMessage();
 }
 $conteudo = "";
@@ -33,5 +36,5 @@ foreach ($cursos as $curso)
     $conteudo .= "$indice $curso \n";
     $indice++;
 }
-
-file_put_contents("cursosPHP.txt", $conteudo);
+$nomeArquivo = "cursos.txt";
+file_put_contents($nomeArquivo, $conteudo);

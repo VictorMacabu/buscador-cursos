@@ -1,0 +1,96 @@
+1 Curso Java OO: entendendo a Orientação a Objetos
+ 
+2 Curso Java Exceções: aprenda a criar, lançar e controlar exceções
+ 
+3 Curso Java e java.lang: programe com a classe Object e String
+ 
+4 Curso Java: criando a sua primeira aplicação
+ 
+5 Curso Java: aplicando a Orientação a Objetos
+ 
+6 Curso Java: trabalhando com listas e coleções de dados
+ 
+7 Curso Java: consumindo API, gravando arquivos e lidando com erros
+ 
+8 Curso Java Collections: Dominando Listas, Sets e Mapas
+ 
+9 Curso Java: novidades e recursos das versões 9 a 14
+ 
+10 Curso Threads em Java 1: programação paralela
+ 
+11 Curso Threads em Java 2: programação concorrente avançada
+ 
+12 Curso Java Reflection parte 1: entendendo a metaprogramação
+ 
+13 Curso Java Reflection parte 2: Anotações e Injeção de Dependências
+ 
+14 Curso Java e Clean Architecture: descomplicando arquitetura de software
+ 
+15 Curso Java e Domain Driven Design: apresentando os conceitos
+ 
+16 Curso Agilidade e TDD: um dia no desenvolvimento de software
+ 
+17 Curso Agilidade e DevOps: um dia no desenvolvimento de software
+ 
+18 Curso Microsserviços na prática: implementando com Java e Spring
+ 
+19 Curso Microsserviços na prática: IaC com CDK e deploy na AWS
+ 
+20 Curso Microsserviços na prática: mensageria com RabbitMQ
+ 
+21 Curso SOLID com Java: princípios da programação orientada a objetos
+ 
+22 Curso Design Patterns em Java I: boas práticas de programação
+ 
+23 Curso Design Patterns em Java II: avançando nas boas práticas de programação
+ 
+24 Curso Certificação Java SE 7 Programmer I
+ 
+25 Curso Certificação Java SE 7 Programmer I: criando e usando Arrays
+ 
+26 Curso Certificação Java SE 7 Programmer I: Laços
+ 
+27 Curso Certificação Java SE 7 Programmer I: lidando com exceções
+ 
+28 Curso Certificação Java SE 7 Programmer I: métodos e encapsulamento
+ 
+29 Curso Certificação Java SE 7 Programmer I: Operadores
+ 
+30 Curso Certificação Java SE 7 Programmer I: relações entre classes
+ 
+31 Curso Certificação Java SE 7 Programmer I: tipos de Dados
+ 
+32 Curso Certificação Java SE 8 Programmer I: conteúdo além da prova
+ 
+33 Curso Java e JDBC: trabalhando com um banco de dados
+ 
+34 Curso Spring Data JPA: Repositórios, Consultas, Projeções e Specifications
+ 
+35 Curso Persistência com JPA: Hibernate
+ 
+36 Curso Java e JPA: consultas avançadas, performance e modelos complexos
+ 
+37 Curso Segurança web em Java: evitando SQL Injection, força bruta e outros ataques
+ 
+38 Curso Segurança web em Java parte 2: XSS, Mass Assignment e Uploads de arquivos!
+ 
+39 Curso Java Servlet: autenticação, autorização e o padrão MVC
+ 
+40 Curso Spring MVC: crie um web app com Thymeleaf e Bootstrap
+ 
+41 Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest
+ 
+42 Curso Spring Boot 3: desenvolva uma API Rest em Java
+ 
+43 Curso Java e Spring: desenvolva sua primeira aplicação Web
+ 
+44 Curso BDD e Java: Behavior Driven Development com Cucumber
+ 
+45 Curso Selenium: testes automatizados de aceitação em Java
+ 
+46 Curso Mocks em Java: conhecendo o Mockito
+ 
+47 Curso TDD e Java: testes automatizados com JUnit
+ 
+48 Curso Maven: gerenciamento de dependências e build de aplicações Java
+ 
