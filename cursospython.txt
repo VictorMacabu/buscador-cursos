@@ -1,0 +1,50 @@
+1 Curso Flask: crie uma webapp com Python
+ 
+2 Curso Flask: avançando no desenvolvimento web com Python
+ 
+3 Curso Django: templates e boas práticas
+ 
+4 Curso Django: persistência de dados e Admin
+ 
+5 Curso Django: autenticação de formulários e alerta
+ 
+6 Curso Django: CRUD e persistência no S3
+ 
+7 Curso API com Django 3: Django Rest Framework
+ 
+8 Curso API com Django 3: Validações, buscas, filtros e deploy
+ 
+9 Curso API com Django 3: Versionamento, cabeçalhos e CORS
+ 
+10 Curso API com Django 3: Testes, segurança e lapidações
+ 
+11 Curso API com Django 3: Aprofundando em testes e documentação
+ 
+12 Curso TDD no Django 3: Desenvolvimento guiado por testes
+ 
+13 Curso Boas práticas no Django: apps, pastas e paginação
+ 
+14 Curso Formulários no Django 3: criando e validando dados
+ 
+15 Curso Python: avançando na linguagem
+ 
+16 Curso Python: entendendo a Orientação a Objetos
+ 
+17 Curso Python: avançando na orientação a objetos
+ 
+18 Curso Python: trabalhando com I/O
+ 
+19 Curso Python Collections parte 1: listas e tuplas
+ 
+20 Curso Python Collections parte 2: conjuntos e dicionários
+ 
+21 Curso Python: começando com a linguagem
+ 
+22 Curso Python Brasil: validação de dados no padrão nacional
+ 
+23 Curso Python: boas práticas de código com PEP8
+ 
+24 Curso String em Python: extraindo informações de uma URL
+ 
+25 Curso Python e TDD: explorando testes unitários
+ 

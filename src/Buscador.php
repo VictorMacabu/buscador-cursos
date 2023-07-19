@@ -26,7 +26,11 @@ class Buscador
     public function buscar(string $url): array
     {
 
-        $resposta = $this->httpClient->request('GET', $url);
+        try {
+            $resposta = $this->httpClient->request('GET', $url);
+        } catch (GuzzleException $e) {
+            echo $e->getMessage();
+        }
 
         $html = $resposta->getBody();
         $this->crawler->addHtmlContent($html);
@@ -34,11 +38,9 @@ class Buscador
         $elementosCursos = $this->crawler->filter('span.card-curso__nome');
         $cursos = [];
 
-        foreach ($elementosCursos as $elemento)
-        {
+        foreach ($elementosCursos as $elemento) {
             $cursos[] = $elemento->textContent . PHP_EOL;
         }
         return $cursos;
     }
-
 }

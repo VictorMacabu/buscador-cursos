@@ -16,12 +16,10 @@ $client = new Client([
 ]);
 $crawler = new Crawler();
 
-
 $buscador = new Buscador($client, $crawler);
 $cursos = [];
-
-echo 'escreva o curso da busca ';
-$nomeTec = fgets(STDIN);
+echo 'Escreva o curso da busca: ';
+$nomeTec = readline('Escreva o curso da busca:');
 
 try {
     $cursos = $buscador->buscar("/cursos-online-programacao/$nomeTec");
@@ -36,5 +34,5 @@ foreach ($cursos as $curso)
     $conteudo .= "$indice $curso \n";
     $indice++;
 }
-$nomeArquivo = "cursos.txt";
+$nomeArquivo = "cursos$nomeTec.txt";
 file_put_contents($nomeArquivo, $conteudo);
